@@ -19,6 +19,8 @@ npm install
 1. `npm start` or `node .`
 
 ## INTERFACE
+![](in-mem-db.gif)
+
 1. Start the app. (npm start or node .)
 1. type any of the required commands into the command line:
 - `GET <name>`
