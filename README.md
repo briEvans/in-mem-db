@@ -1,6 +1,6 @@
 # In Memory Database
 
-in-mem-db is a javacript implementation of an in memory database. It supports database [transacions](https://www.techopedia.com/definition/16455/transaction) 
+in-mem-db is a javacript implementation of an in memory database. It supports Basic CRUD actions AND fully supports database [transactions](https://www.techopedia.com/definition/16455/transaction) (BEGIN, ROLLBACK, COMMIT) 
 
 ## SET UP
 
